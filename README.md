@@ -18,7 +18,7 @@
 
 ###
 
-<p data-importer="text" align="left">🔭 I’m currently working on Deploy, Configure and Integrate Solutions to Help Enterprise customers.<br><br>🌱 I’m currently working and learning Forward Deployed Engineer to Build End-to-End AI Systems<br><br>👯 I’m looking to collaborate on Cloud Native Projects Forward Deployed Engineering (FDE)<br><br>🤝 I’m looking for help with AI FDE<br><br>💬 Ask me about: Woeking as a deployment specialist for complex AI applications, transitioning from rapid prototypes to production-grade agentic workflows (e.g., multi-agent systems, model context protocol (MCP) servers) that drive measurable return on investment.</p>
+<p data-importer="text" align="left">🔭 I’m currently working on Deploy, Configure and Integrate Solutions to Help Enterprise customers.<br><br>🌱 I’m currently working and learning Forward Deployed Engineer to Build End-to-End AI Systems<br><br>👯 I’m looking to collaborate on Cloud Native Projects Forward Deployed Engineering (FDE)<br><br>🤝 I’m looking for help with AI FDE<br><br>💬 Ask me about: Working as a deployment specialist for complex AI applications, transitioning from rapid prototypes to production-grade agentic workflows (e.g., multi-agent systems, model context protocol (MCP) servers) that drive measurable return on investment.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

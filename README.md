@@ -47,7 +47,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/ansible/EE0000" height="40" alt="ansible logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/oracle/F80000" height="40" alt="oracle logo"  />
 </div>
 
 ###
